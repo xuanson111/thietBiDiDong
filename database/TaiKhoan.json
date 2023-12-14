@@ -1,0 +1,14 @@
+[
+    {
+        "taiKhoan": "admin",
+        "matKhau": "admin",
+        "tenKhuTro": "Home 18",
+        "loaiTaiKhoan": "admin"
+    },
+    {
+        "taiKhoan": "admin1",
+        "matKhau": "admin1",
+        "tenKhuTro": "Home 24",
+        "loaiTaiKhoan": "admin"
+    }
+]

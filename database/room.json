@@ -1,0 +1,86 @@
+[
+  {
+    "id": "101",
+    "price": 1500000,
+    "acreage": 30,
+    "interior": "bàn, ghế",
+    "state": 1
+  },
+  {
+    "id": "102",
+    "price": 1600000,
+    "acreage": 35,
+    "interior": "sofa, đèn",
+    "state": 2
+  },
+  {
+    "id": "103",
+    "price": 1700000,
+    "acreage": 40,
+    "interior": "bàn ăn, tủ lạnh",
+    "state": 0
+  },
+  {
+    "id": "104",
+    "price": 1800000,
+    "acreage": 25,
+    "interior": "giường, tủ",
+    "state": 1
+  },
+  {
+    "id": "105",
+    "price": 1900000,
+    "acreage": 28,
+    "interior": "gối, kệ sách",
+    "state": 0
+  },
+  {
+    "id": "106",
+    "price": 2000000,
+    "acreage": 32,
+    "interior": "bàn trang điểm, gương",
+    "state": 0
+  },
+  {
+    "id": "107",
+    "price": 2100000,
+    "acreage": 38,
+    "interior": "thảm, tranh treo tường",
+    "state": 1
+  },
+  {
+    "id": "108",
+    "price": 2200000,
+    "acreage": 36,
+    "interior": "tivi, loa",
+    "state": 2
+  },
+  {
+    "id": "109",
+    "price": 2300000,
+    "acreage": 42,
+    "interior": "đèn trần, rèm cửa",
+    "state": 0
+  },
+  {
+    "id": "110",
+    "price": 2400000,
+    "acreage": 33,
+    "interior": "bàn làm việc, ghế xoay",
+    "state": 1
+  },
+  {
+    "id": "111",
+    "price": 2500000,
+    "acreage": 37,
+    "interior": "bàn ăn, ghế gấp",
+    "state": 2
+  },
+  {
+    "id": "112",
+    "price": 2600000,
+    "acreage": 39,
+    "interior": "đèn trang trí, bàn kệ",
+    "state": 0
+  }
+]

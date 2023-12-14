@@ -1,0 +1,65 @@
+{
+    "Bill": [
+        {
+            "id": "1",
+            "roomId": "301",
+            "soDien": "60",
+            "soNuoc": "5",
+            "ngayTao": "31/10/2023",
+            "total": "2.800.000"
+        },
+        {
+            "id": "2",
+            "roomId": "302",
+            "soDien": "30",
+            "soNuoc": "3",
+            "ngayTao": "31/10/2023",
+            "total": "1.200.000"
+        },
+        {
+            "id": "3",
+            "roomId": "201",
+            "soDien": "90",
+            "soNuoc": "8",
+            "ngayTao": "31/10/2023",
+            "total": "3.200.000"
+        },
+        {
+            "id": "4",
+            "roomId": "202",
+            "soDien": "90",
+            "soNuoc": "5",
+            "ngayTao": "31/10/2023",
+            "total": "2.800.000"
+        },
+        {
+            "id": "5",
+            "roomId": "203",
+            "soDien": "30",
+            "soNuoc": "5",
+            "ngayTao": "31/10/2023",
+            "total": "1.500.000"
+        },
+        {
+            "id": "6",
+            "roomId": "101",
+            "soDien": "100",
+            "soNuoc": "5",
+            "ngayTao": "31/10/2023",
+            "total": "2.400.000"
+        },
+        {
+            "id": "7",
+            "roomId": "103",
+            "soDien": "110",
+            "soNuoc": "8",
+            "ngayTao": "31/10/2023",
+            "total": "4.200.000"
+        }
+    ],
+    "PhuPhi": {
+        "wifi": "100.000",
+        "donRac": "30.000",
+        "thangMay": "50.000"
+    }
+}
